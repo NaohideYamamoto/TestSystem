@@ -8,5 +8,8 @@
 </head>
 <body>
   <p>sample2</p>
+
+  this is a sample file for git, no.2.
+
 </body>
 </html>
