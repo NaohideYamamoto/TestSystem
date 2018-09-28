@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <p>sample6</p>
+  <p>おはようございます。</p><br>
+  <p>こんにちは。</p><br>
 </body>
 </html>

@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <p>sample5</p>
+  <p>けだま君はとってもかわいいです。
+  <br/>
+  リチャードソンジリスのけだま君です。</p>
 </body>
 </html>
