@@ -7,6 +7,6 @@
 <title>Insert title hereaaaあああ</title>
 </head>
 <body>
-  <p>sample1</p>
+  <p>さんぷる ああいち☆</p>
 </body>
 </html>
