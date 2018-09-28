@@ -8,7 +8,7 @@
 </head>
 <body>
   <p>sample8</p>
-  こんにちは
+  こんにちは！
 
 
 </body>
